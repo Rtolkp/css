@@ -1,0 +1,9 @@
+.one {
+			height:100px;
+			width:40%;
+			border:10px solid red;
+			background-color: green;
+			background-image: linear-gradient(black ,blue);
+		}
+		
+			

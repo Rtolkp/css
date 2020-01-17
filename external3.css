@@ -1,0 +1,21 @@
+.one {
+      height:100px;
+      width:30%;
+      border:1px dashed green;
+      float:left;
+    
+    }
+    .two {
+      height:100px;
+      width:30%;
+      border:1px dashed red;
+      float:left;
+    }
+    .three {
+      height:100px;
+      width:30%;
+      border:1px dashed blue;
+      background: green;
+     background-clip: border-box;  
+    float:left;
+    }

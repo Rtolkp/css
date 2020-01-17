@@ -1,0 +1,40 @@
+.header{
+	height: 100px;
+	border: 2px solid green;
+	width: 100%;
+
+}
+.container{
+	width: 100%;
+	height: 100px;
+}
+.sub1{
+	float: left;
+	height: 300px;
+	width: 20%;
+}
+.a{
+	height: 300px;
+	width: 100%;
+	border: 1px solid green;
+}
+.b{
+	height: 300px;
+	width: 100%;
+	border: 1px solid green;
+	margin-top: 10px;
+
+}
+.sub2{
+	height: 600px;
+	width: 50%;
+	border: 1px solid blue;
+	float: left;
+
+}
+.sub3{
+	height: 300px;
+	width: 20%;
+	float: left;
+
+}

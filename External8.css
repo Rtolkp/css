@@ -1,0 +1,73 @@
+.header{
+	height: 60px;
+	border: 2px solid green;
+	width: 100%;
+
+}
+.container{
+	height: 60px;
+	border: 2px solid green;
+	width: 100%;
+
+}
+.header1{
+	height: 200px;
+	border: 2px solid green;
+	width: 100%;
+
+}
+.container1{
+	height: 200px;
+	border: 2px solid green;
+	width: 100%;
+
+}
+
+.sub1{
+	float: left;
+	height: 300px;
+	width: 20%;
+}
+.a{
+	height: 90px;
+	width: 20%;
+	border: 1px solid green;
+	float: right;
+}
+
+.b{
+	height: 90px;
+	width: 20%;
+	border: 1px solid green;
+	float: left;
+
+
+
+	
+
+}
+.c{
+	height: 90px;
+	width: 20%;
+	border: 1px solid green;
+	float: left;
+
+
+
+}
+.header2{
+	height: 60px;
+	border: 2px solid green;
+	width: 100%;
+
+}
+.container2{
+	height: 60px;
+	border: 2px solid green;
+	width: 100%;
+
+
+
+
+
+
